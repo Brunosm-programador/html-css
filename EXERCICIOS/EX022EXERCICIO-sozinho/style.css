@@ -1,0 +1,15 @@
+@charset "UTF-8"
+
+    p.cabecalho{
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to right,#269A58, #20834b, #1a663b, #155732, #0e361f);
+    margin-bottom: 100px;
+    text-align: center; }
+
+    h1{
+    color: red
+    }
+    menu{
+    margin-top: 100px;
+    color: red;
+    }

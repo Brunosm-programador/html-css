@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(7, 232, 248);
+    font-size: medium;
+}
+h1 {
+    color: crimson;
+}
